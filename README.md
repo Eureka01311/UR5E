@@ -1,6 +1,6 @@
-# UR5e_Vision_Pick_and_Place
+# UR5E_Vision_Pick_and_Place
 
-MuJoCo 시뮬레이터와 OpenCV를 활용한 UR5e 로봇 팔 객체 인식 및 Pick and Place 프로젝트입니다.
+MuJoCo 시뮬레이터와 OpenCV를 활용한 UR5E 로봇 팔 객체 인식 및 Pick and Place 프로젝트입니다.
 
 ## 1. 프로젝트 결과물
 
