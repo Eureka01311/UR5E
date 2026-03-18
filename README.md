@@ -46,6 +46,9 @@ pip install mujoco opencv-python numpy
 
 **실행 명령어**
 ```bash
+# 터미널 1
 python3 ur5e_main_V1.0.py
+
+# 터미널 2
 python3 ur5e_control_V1.0.py
 ```
