@@ -42,6 +42,10 @@ MuJoCo 시뮬레이터와 OpenCV를 활용한 UR5e 로봇 팔 객체 인식 및 
 **의존성 패키지 설치**
 ```bash
 pip install mujoco opencv-python numpy
+```
 
+**실행 명령어**
+```bash
 python3 ur5e_main_V1.0.py
 python3 ur5e_control_V1.0.py
+```
